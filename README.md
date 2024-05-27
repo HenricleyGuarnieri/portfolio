@@ -1,2 +1,4 @@
 # portfolio
- meu portólio
+
+-- Descrição 
+ meu portólio particular para o desenvolvimento de sites web. 
